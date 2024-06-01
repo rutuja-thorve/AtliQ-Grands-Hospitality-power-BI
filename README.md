@@ -18,8 +18,8 @@ https://app.powerbi.com/view?r=eyJrIjoiZDRlNTYzZjUtNzE0Zi00YWI5LThlMzQtZjIxOTg4Y
  9. WOW Change %
  
  ### Power BI Learnings
-  1. Creating calcualted columns and DAX measures
-  2. Data Modelling,data validation techniques and using KPI indicators
+  1. Creating calculated columns and DAX measures
+  2. Data Modelling, data validation techniques and using KPI indicators
   3. Tooltips to save page area
   7. PowerBI services for publishing and sharing reports online
   8. Auto refresh setup for data through gateway

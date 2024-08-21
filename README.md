@@ -21,13 +21,13 @@ https://app.powerbi.com/view?r=eyJrIjoiMDJhY2ZhY2ItZWE3ZS00MzIyLWE4MGItN2Q0ODE4M
   1. Creating calculated columns and DAX measures
   2. Data Modelling, data validation techniques and using KPI indicators
   3. Tooltips to save page area
-  7. PowerBI services for publishing and sharing reports online
-  8. Auto refresh setup for data through gateway
+  4. PowerBI services for publishing and sharing reports online
+  5. Auto refresh setup for data through gateway
 
   ### Tools Uesd
   1. PowerBI Desktop
   2. PowerBI Service
-  4. MS.EXCEL 
-  5. Power Query
-  6. DAX language
-  7. Dax studio(TO REDUCE FILE SIZE)
+  3. MS.EXCEL 
+  4. Power Query
+  5. DAX language
+  6. Dax studio(TO REDUCE FILE SIZE)
